@@ -1,4 +1,4 @@
-# ROS and TurtleBot3 Package Installation
+# ROS and TurtleBot3 Package Installation(PC)
 
 This repository provides a convenient way to install ROS (Robot Operating System) along with all the required packages for TurtleBot3 with just a single command. Whether you're new to robotics or a seasoned developer, this streamlined installation script will save you time and effort.
 
