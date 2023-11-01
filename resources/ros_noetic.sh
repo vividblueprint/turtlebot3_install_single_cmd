@@ -1,6 +1,5 @@
 #!/bin/bash
 # Apache License 2.0
-# Copyright (c) 2020, ROBOTIS CO., LTD.
 
 echo ""
 echo "[Note] Target OS version  >>> Ubuntu 20.04.x (Focal Fossa) or Linux Mint 21.x"
