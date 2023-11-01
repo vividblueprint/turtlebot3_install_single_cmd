@@ -21,4 +21,3 @@ That's it! The script will handle the installation of ROS and all the necessary 
 If you encounter any issues or have suggestions for improvements, please feel free to open an issue or create a pull request. Your contributions are highly appreciated!
 
 Happy Robot Hacking! 🤖🚀
-You can use this as the README for your GitHub repository to provide clear instructions for users interested in installing ROS and TurtleBot3 packages using your script.
