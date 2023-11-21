@@ -5,4 +5,5 @@ sudo apt-get install -y ros-noetic-joy ros-noetic-teleop-twist-joy \
   ros-noetic-rosserial-msgs ros-noetic-amcl ros-noetic-map-server \
   ros-noetic-move-base ros-noetic-urdf ros-noetic-xacro \
   ros-noetic-compressed-image-transport ros-noetic-rqt* ros-noetic-rviz \
+  ros-noetic-dwa-local-planner \
   ros-noetic-gmapping ros-noetic-navigation ros-noetic-interactive-markers
