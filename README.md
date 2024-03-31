@@ -8,6 +8,7 @@ To install ROS and TurtleBot3 packages using this repository, follow this simple
 ```
 git clone https://github.com/vividblueprint/turtlebot3_install_single_cmd.git
 cd turtlebot3_install_single_cmd
+chmod +x *
 ./install_ros_noetic.sh
 ```
 That's it! The script will handle the installation of ROS and all the necessary TurtleBot3 packages for you.
